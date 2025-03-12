@@ -1,5 +1,5 @@
 ## Hi there 👋
-![MR ROBOT](IMG_0301.WEBP)
+<img src="IMG_0301.WEBP" width="550" height="575" alt="Mr. Robot">
 <!--
 **tann3r4k/tann3r4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
