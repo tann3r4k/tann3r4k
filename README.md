@@ -1,2 +1,2 @@
 ### Hi there 👋
-<img src="IMG_0301.WEBP" width="550" height="575" alt="Mr. Robot">
+<img src="IMG_0301.WEBP" width="350" height="375" alt="Mr. Robot">
